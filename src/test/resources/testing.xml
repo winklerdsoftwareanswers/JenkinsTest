@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="mySuite">
+    <parameter name="myName" value="DaWi!" />
+    <test name="myTests">
+        <classes>
+            <class name="my.samples.JenkinsTest" />
+        </classes>
+    </test>
+</suite>

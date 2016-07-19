@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="my.samples.JenkinsTest" duration-ms="11872" started-at="2016-07-19T14:40:31Z" finished-at="2016-07-19T14:40:43Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="11872" started-at="2016-07-19T14:40:31Z" finished-at="2016-07-19T14:40:43Z">
+      <class name="my.samples.JenkinsTest">
+        <test-method status="PASS" signature="method(java.lang.String)[pri:0, instance:my.samples.JenkinsTest@7f5db23e]" name="method" duration-ms="3462" started-at="2016-07-19T10:40:31Z" data-provider="mySBTest" finished-at="2016-07-19T10:40:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Gary]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+        <test-method status="PASS" signature="method(java.lang.String)[pri:0, instance:my.samples.JenkinsTest@7f5db23e]" name="method" duration-ms="3888" started-at="2016-07-19T10:40:34Z" data-provider="mySBTest" finished-at="2016-07-19T10:40:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[SpongeBob]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+        <test-method status="PASS" signature="method(java.lang.String)[pri:0, instance:my.samples.JenkinsTest@7f5db23e]" name="method" duration-ms="4510" started-at="2016-07-19T10:40:38Z" data-provider="mySBTest" finished-at="2016-07-19T10:40:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sandy]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+      </class> <!-- my.samples.JenkinsTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- my.samples.JenkinsTest -->
+</testng-results>
